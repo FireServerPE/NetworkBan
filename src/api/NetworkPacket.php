@@ -75,8 +75,6 @@ public function LoggerNework(){
 $this->getServer()->getLogger()->info('=========================================');
 $this->getServer()->getLogger()->info('Inicado Servidor v1.0');
 $this->getServer()->getLogger()->info('System NetworkBan Iniciado version : 3.9 Beta');
-$this->getServer()->getLogger()->info('Licencia NextCraft Network');
-$this->getServer()->getLogger()->info('Sofware API : NetworkBanAPI.php');
 $this->getServer()->getLogger()->info('============================================');
 
 
