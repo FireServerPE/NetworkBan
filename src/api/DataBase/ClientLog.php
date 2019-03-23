@@ -18,8 +18,8 @@ public static function NETWORKADDBAN($name){
 }
 public static function NETWORKBANPLAYER(){
 $t1 = "       §7-----[ §bNextCraft §3Network ]§7-----";
-$t2 = "§cYou are banned from §4§lNextCraft§r §cReason: §7Hacks";
-$t3 = "      §cAppeal at Twitter: §7@NextCraftP";
+$t2 = "§cYou are banned from §4§lServerName§r §cReason: §7Hacks";
+$t3 = "      §cAppeal at Twitter: §7@ServerTwitter";
 $r = "\n";
 	return $t1.$r.$t2.$r.$t3.$r;
 }
