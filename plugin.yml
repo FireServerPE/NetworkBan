@@ -1,0 +1,10 @@
+name: NetworkBan
+main: api\NetworkPacket
+api: 3.0.0
+author: Jose
+version: 1.1
+commands:
+ networkban:
+  description: GlobalBan
+ unban:
+  description: GlobalBanPardon
