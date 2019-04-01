@@ -17,7 +17,7 @@ public static function NETWORKADDBAN($name){
 	return '§7[§aNETWORK-BAN§7] §bJugador §7: §a'.$name.' §cha sido baneado razon : Hacks';
 }
 public static function NETWORKBANPLAYER(){
-$t1 = "       §7-----[ §bNextCraft §3Network ]§7-----";
+$t1 = "       §7-----[ §bSevrer §3Network ]§7-----";
 $t2 = "§cYou are banned from §4§lServerName§r §cReason: §7Hacks";
 $t3 = "      §cAppeal at Twitter: §7@ServerTwitter";
 $r = "\n";
